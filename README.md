@@ -1,1 +1,1 @@
-# matrix
+#czym jest matrix
