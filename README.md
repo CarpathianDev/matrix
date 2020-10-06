@@ -1,5 +1,5 @@
 # czym-jest-matrix
-> Fully responsive website of the PiN Trips travel agency organizing tours across Georgia and running a hostel in the southern Caucasus.
+> Fully responsive website dedicated to the interpretation of religious symbols in the Matrix trilogy.
 
 ## Technologies
 * HTML5
