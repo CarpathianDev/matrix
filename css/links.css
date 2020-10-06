@@ -1,0 +1,27 @@
+/* Section Links */
+
+.darker-box2 {
+    height: 270px;
+}
+
+.headingh2-links {
+    text-align: left;
+    margin-bottom: 10px;
+    padding: 0 10%;
+}
+
+.links {
+    margin-bottom: 50px;
+}
+
+@media (max-width: 750px) {
+    .darker-box2 {
+        height: 150px;
+    }
+
+    .headingh2-links {
+        text-align: left;
+        margin-bottom: 10px;
+        padding: 0 2.5%;
+    }
+}
